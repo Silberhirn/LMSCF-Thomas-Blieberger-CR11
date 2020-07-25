@@ -1,0 +1,51 @@
+.container {
+	  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4);
+	  height: 15em;
+}
+}
+.box {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4);
+}
+
+.img_cont {
+	height: 100%;
+	overflow: hidden;
+}
+
+.hero {
+	background-image: url("../img/hero.jpg");
+	background-position: center;
+	background-size: cover;
+	height: 6em;
+	font-size: 3em;
+	text-shadow: 0 0 5px white;
+}
+
+fieldset {
+   margin : auto;
+   margin-top: 50px;
+    width: 80%;
+}
+
+table  tr th {
+	text-align: right;
+	padding-right: 1em;
+	width: 15em;
+}
+
+table  tr td {
+	margin: auto;
+}
+
+input {
+	width: 100%;
+}
+
+select {
+	width: 100%;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
